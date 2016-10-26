@@ -1,0 +1,26 @@
+Sekarang ini kita sangat penting mengenai atau mengetahui tentang  permukaan bumi.
+Data dan jika kita ingin mengetahui lokasi atau bagian-bagian permukaan bumi ini.
+sekarang tidak susah untuk mendapatkan atau mengetahui data-data tersebut kita 
+tinggal mencarinya di berbagai situs.Dan dengan menggunakan aplikasi QGIS kita
+dapat membaca atau melihatnya dengan Phython.Video dibawah ini tutorial  melihat 
+data-data tersebut.
+ 
+Geospasial adalah aspek keruangan yang menunjukkan letak, lokasi, dan posisi suatu objek 
+atau kejadian yang berada permukaan bumi yang dinyatakan dan mengacu pada dalam sistem 
+koordinat tertentu dan geospasial ini terbagi atas 2 macam model yaitu sebagai berikut.
+
+•	Data vektor adalah data yang berupa atau berupa titik, garis dan area yang berbentuk polygon.
+  Data vektor ini juga dapat digunakan untuk keperluan peta atau rancangan pembangunan jalan,rel
+  kereta api,letak kordinat dan lain sebagainya dan contohnya seperti peta atlas.dan vector ini
+  terbagi dua data yaitu cultural dan physical.
+	Cultural adalah data yang dipengaruhi perdabban manusia dan berupa batas wilayah seprti contohnya 
+   batas kota,provinsi maupun negara.
+	Physical adalah  daya yang terlihat dan tidak akan berubah begitu saja,seperti contohnya pulau dan laut.
+
+
+•	Data raster adalah  data spasiall permukaan bumi yang diperoleh dari citra pengambilan foto atau radar 
+  satelit yang berupa gambar. Data raster ini  berupa gambar-gambar kotak permukaan bumi dalam bentuk warna 
+  seperti hijau, kuning, biru dan sebagainya seperti contohnya peta. 
+
+Jadi Geospasial menjelaskan tentang bentuk ruang dan tata letak suatu daerah dipermukaan bumi ini dan aplikasi
+Qgis dan Phython dapat membatu kita dalam mengetahu data-data tersebut.
